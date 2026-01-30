@@ -10,7 +10,7 @@ A Monte Carlo simulation-based Texas Hold'em poker equity calculator built as an
 * 🎮 Multi-stage Support: Pre-flop, flop, turn, and river calculations
 * 👥 Flexible Configuration: Adjustable opponents (1-9) and simulation counts
 
-## Quick Start
+## 🚀 Quick Start
 
 1. Clone the Repository
 
